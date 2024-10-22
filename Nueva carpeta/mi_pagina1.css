@@ -1,0 +1,57 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fbeae6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Encabezado */
+header {
+    background-color: #ffb6c1;
+    padding: 2em;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+header p {
+    font-style: italic;
+}
+
+/* Mensaje romántico */
+.romantic-message {
+    margin: 2em 0;
+    background-color: #fff5f7;
+    padding: 2em;
+    border-radius: 8px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.romantic-message h2 {
+    font-size: 2.5em;
+    color: #e74c3c;
+}
+
+.romantic-message p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Footer */
+footer {
+    background-color: #ffb6c1;
+    padding: 1em;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
